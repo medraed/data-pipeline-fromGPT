@@ -6,7 +6,7 @@
 
     <groupId>org.setup</groupId>
     <artifactId>data-pipeline-fromGPT</artifactId>
-    <version>1.0-SNAPSHOT </version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
